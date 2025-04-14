@@ -1,0 +1,19 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: lightpink;
+    padding: 20px;
+}
+.container{
+    max-width: 9000px;
+    margin: 0;
+    font-size: 20px;
+}
+.search-box{
+    text-align: center;
+    margin-bottom: 30px;
+}
+#saerchInput{
+    width: 300px;
+    padding: 10px;
+    font-size: 20px;
+}
